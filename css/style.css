@@ -36,3 +36,17 @@
   font-size: 1.5rem;
   border-radius: .75rem;
 }
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link.active {
+  background-color: #ddd !important; /* Adjust background if needed */
+  color: black !important;
+}
+
+img {
+  background: none; /* Removes any applied background */
+}
+
