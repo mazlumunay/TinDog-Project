@@ -50,3 +50,7 @@ img {
   background: none; /* Removes any applied background */
 }
 
+.profile-img{
+  height: 100px;
+  border-radius: 50%;
+}
